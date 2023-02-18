@@ -3,7 +3,9 @@ Simple project GraphQl with Node.js and MongoDB
 
 ## Getting Started
 
-First, run the development server:
+First, create mongoDB cluster and set your URI in .env local file.
+
+After, run the development server:
 
 ```bash
 npm run dev
